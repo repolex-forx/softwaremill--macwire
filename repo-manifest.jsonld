@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/softwaremill/macwire/commit/10571d5991cd17e7d38194be7bb79f978fd90119",
       "git:hexsha": "10571d5991cd17e7d38194be7bb79f978fd90119",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/softwaremill/macwire/commit/7153f89081310301ddd15bb9d2b9486e0c35ef76",
